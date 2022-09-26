@@ -8,5 +8,11 @@ First Edit
  |----|---|-----|
 
  ## Local  Development
+
+ | Input | Output |
+|[]<br />
+add<br />
+10<br />|[10]|
+|-------|--------|
  
   
