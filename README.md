@@ -9,7 +9,8 @@ First Edit
 
  ## Local  Development
 
- | Input | Output |
+| Input | Output |
+|-------|--------|
 |[]<br />
 add<br />
 10<br />|[10]|
